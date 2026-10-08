@@ -80,7 +80,10 @@ export function App() {
           rgb={rgb}
           cmykDerivedRgb={cmykDerivedRgb}
           hex={hex}
+          cmyk={cmyk}
+          cmykFormatted={cmykFormatted}
           cmykString={cmykString}
+          rgbString={rgbString}
         />
       </main>
 
